@@ -1,3 +1,0 @@
-ne of the biggest challenges faced by developers when it comes to querying is the sheer amount of data that is available. With millions of transactions and blocks being added to the blockchain every day, it can be difficult for developers to know where to start when it comes to accessing this data.
-
-Another challenge is the complexity of the data structures. Unlike traditional databases, which are organized in a simple, hierarchical manner, adding cross-chain functionality can be a complex task, as data does not flow easily between different blockchain networks. This added layer of complexity can make it more challenging to integrate and utilize multiple blockchains in a single system
